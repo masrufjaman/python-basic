@@ -5,3 +5,4 @@
 3. [Python Sets, Dictionaries and Tuples](https://github.com/masrufjaman/learn-Python/blob/main/Python%20Sets%2C%20Dictionaries%20and%20Tuples.ipynb)
 4. [Exercise-1](https://github.com/masrufjaman/learn-Python/blob/main/Exercise-1.ipynb)
 5. [Numpy and Inbuilt Functions](https://github.com/masrufjaman/learn-Python/blob/main/Numpy%20and%20Inbuilt%20Functions.ipynb)
+6. [Pandas, Data Frame and Data Series Part-1](https://github.com/masrufjaman/learn-Python/blob/main/Pandas%2C%20Data%20Frame%20and%20Data%20Series%20Part-1.ipynb)
