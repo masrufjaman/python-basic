@@ -9,3 +9,5 @@
 7. [Pandas,Reading CSV files With Various Parameters- Part 2](https://github.com/masrufjaman/learn-Python/blob/main/Pandas%2CReading%20CSV%20files%20With%20Various%20Parameters-%20Part%202.ipynb)
 8. [Pandas-Reading JSON, Reading HTML, Read PICKLE, Read EXCEL Files- Part 3](https://github.com/masrufjaman/learn-Python/blob/main/Pandas-Reading%20JSON%2C%20Reading%20HTML%2C%20Read%20PICKLE%2C%20Read%20EXCEL%20Files-%20Part%203.ipynb)
 9. [Matplotlib (Simple Visualization Library)](https://github.com/masrufjaman/learn-Python/blob/main/Matplotlib%20(Simple%20Visualization%20Library).ipynb)
+10. [Seaborn - Distplot, Joinplot, Pairplot Part 1](https://github.com/masrufjaman/learn-Python/blob/main/Seaborn%20-%20Distplot%2C%20Joinplot%2C%20Pairplot%20Part%201.ipynb)
+11. [Seaborn - Countplot(), Violinplot(), Boxplot() Part2](https://github.com/masrufjaman/learn-Python/blob/main/Seaborn%20-%20Countplot()%2C%20Violinplot()%2C%20Boxplot()%20Part2.ipynb)
