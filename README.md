@@ -11,3 +11,4 @@
 9. [Matplotlib (Simple Visualization Library)](https://github.com/masrufjaman/learn-Python/blob/main/Matplotlib%20(Simple%20Visualization%20Library).ipynb)
 10. [Seaborn - Distplot, Joinplot, Pairplot Part 1](https://github.com/masrufjaman/learn-Python/blob/main/Seaborn%20-%20Distplot%2C%20Joinplot%2C%20Pairplot%20Part%201.ipynb)
 11. [Seaborn - Countplot(), Violinplot(), Boxplot() Part2](https://github.com/masrufjaman/learn-Python/blob/main/Seaborn%20-%20Countplot()%2C%20Violinplot()%2C%20Boxplot()%20Part2.ipynb)
+12. [Exploratory Data Analysis(EDA) of Titanic dataset](https://github.com/masrufjaman/learn-Python/blob/main/Exploratory%20Data%20Analysis(EDA)%20of%20Titanic%20dataset.ipynb)
